@@ -50,7 +50,45 @@
 22. spectrum /ˈspektrəm/ [n.] 光谱
 
 
-23
+
+
+# 2025年11月16日
+
+1. ex‧emp‧tion /ɪɡˈzempʃən/ ●○○ noun 免除, 免税
+2. Undergraduate 本科生
+3. postgraduate 研究生
+4. the National Postgraduate Entrance Examination
+5. on-site interview: 在对方学校/公司现场, 必须在对方地点, 进行面试
+6. in-person interview: 面对面, 不是线上面试
+7. quo‧ta /ˈkwəʊtə $ ˈkwoʊ-/ ●○○ noun [countable] 定额、限额
+8.
+- 9月上旬 → early September
+- 9月中旬 → mid-September
+- 9月下旬 → late September
+
+9.
+Regulations on the Administration of the Program for Recommending Outstanding Undergraduate Students for Exemption from the National Postgraduate Entrance Examination (Trial)
+全国普通高等学校推荐优秀应届本科毕业生 免试攻读硕士学位研究生工作管理办法（试行）
+
+
+10. with respect to .... 在 .... 方面
+
+11. 
+- metrics = “性能指标”、“衡量标准”
+- metric [a.] 公制的
+
+12. incentive [n.]  /ɪnˈsentɪv/  刺激、激励
+
+13. algorithmic ˌal-gə-ˈrit͟h-mik  adjective
+
+
+14. scenario [n.] 剧本
+
+15. new insights 新的洞见、新的见解
+
+
+
+
 
 
 
