@@ -87,6 +87,25 @@ Regulations on the Administration of the Program for Recommending Outstanding Un
 15. new insights 新的洞见、新的见解
 
 
+# 2025年11月17日
+
+1. man‧gle1 /ˈmæŋɡəl/ verb [transitive] 压碎、糟蹋
+
+2. in‧teg‧ri‧ty /ɪnˈteɡrəti/ ●○○ AWL noun [uncountable] 完整、正直
+
+3. con‧fi‧den‧ti‧al‧i‧ty /ˌkɒnfədenʃiˈæləti $ ˌkɑːn-/ ●○○ noun [uncountable] 机密性
+
+4. a‧vail‧a‧bil‧i‧ty /əˌveɪləˈbɪləti/ ●●○ AWL noun [uncountable] 可用性
+
+5. Symmetric Encryption 对称加密
+- symmetrical /sɪˈmetrɪkəl/
+- symmetric /sɪˈmetrɪk/
+
+6. Asymmetric Encryption 非对称加密
+- a‧sym‧met‧ri‧cal /ˌeɪsəˈmetrɪkəl/ (also asymmetric /-ˈmetrɪk◂/)
+
+
+
 
 
 
